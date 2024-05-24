@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Tahoma;
+}
+
+.secao_topo {
+    text-align: center;
+    background-color: rgb(207, 205, 205);
+    padding: 30px;
+    h2 {
+        padding-top: 20px;
+    }
+    p {
+        color: rgb(37, 144, 187);
+        padding-top: 10px;
+    }
+}
+
+.secao_ingles {
+    text-align: center;
+    background-color: rgb(8, 133, 182);
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 380px;
+    margin-right: 380px;
+    color: white;
+    img {
+        width: 50px;
+        padding-top: 20px;
+    }
+    p {
+        padding: 10px;
+    }
+}
+
+.secao_espanha {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 380px;
+    margin-right: 380px;
+    img {
+        width: 50px;
+        padding-top: 20px;
+    }
+    p {
+        padding: 10px;
+    }
+}
+
+.secao_frances {
+    text-align: center;
+    background-color: rgb(8, 133, 182);
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 380px;
+    margin-right: 380px;
+    color: white;
+    img {
+        width: 50px;
+        padding-top: 20px;
+    }
+    p {
+        padding: 10px;
+    }
+}
+ .secao_frase {
+    text-align: center;
+    margin-left: 560px;
+    margin-right: 560px;
+    margin-bottom: 50px;
+    color: rgb(8, 133, 182);
+ }
